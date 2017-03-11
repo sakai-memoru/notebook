@@ -5,7 +5,7 @@ This site is the context on my learning notebook.
 
 ## Site map
 * Self-development
-[Self-development](Self-developent/index.md) : Self-developent/index.md
+[Self-development](Self-development/index.md) : Self-development/index.md
 * IT 
 [IT](IT/index.md): IT/index.md
 * Economics
